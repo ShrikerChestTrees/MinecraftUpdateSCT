@@ -1,4 +1,3 @@
-remote_theme: pages-themes/cayman@v0.2.0
 # Minecraft Update (By SCT)
 ### ENG
 Here we publish new updated versions from b1.2_01 to the newest!
