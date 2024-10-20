@@ -59,6 +59,23 @@ Now hopefully they will somehow remember the past and realize that the sun was d
 Теперь надеемся, что они как-то вспомнять прошлое и поймут, что солнце было другим...
 
 ## 4. Version: b1.2_01 (omg_update)
+![2024-10-19_18 51 42](https://github.com/user-attachments/assets/bf8ad3e5-3e8f-434d-ab9a-8e2acec34625)
+Universe 179843
+### ENG
+This version was released with a universe where people from 2010 have an IQ of 56!
+They got so dumb that ShrikerChestTree wanted to make an update but the kids from 2010 wanted colorful with LGBT & so he made this version.
+
+That version made it to this universe and now other people will realize that they are about the same way.
+Hopefully in this universe will now realize why the version resembles us...
+
+### RU
+Эта версия была выпущенна с вселенной, где у людей с 2010 года IQ 56!
+Они настолько стали тупыми, что ShrikerChestTree хотел сделать обновление, но дети с 2010 года хотели разноцветное с ЛГБТ и поэтому он сделал такую версию.
+
+Эта версия попала к в эту вселенную и теперь другие люди поймут, что они примерно так же делают.
+Надеемся в этой вселенной теперь поймут почему версия напоминает нас... 
+
+## 5. Version: b1.2_01 (rgb_update)
 ### ENG
 Developing...
 
