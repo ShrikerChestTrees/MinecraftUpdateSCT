@@ -1,4 +1,16 @@
 # Minecraft Update (By SCT)
+			</div>
+			<br><br>
+			<input type="text" id="name">
+			<button onclick="genKeyAfterTime()">Generate Key</button>
+
+			<br><br>
+			<div id="key"></div>
+		</div>
+
+		<div class="footer">
+			revision1
+		</div>
 ### ENG
 Here we publish new updated versions from b1.2_01 to the newest!
 (As well as information about versions from other universes).
