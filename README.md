@@ -41,8 +41,24 @@ I hope he doesn't start trying to get into that universe.
 
 Надеюсь он не начнёт пытаться попасть в эту вселенную.
 
-
 ## 3. Version: b1.2_01 (black_sun_update)
+![2024-10-19_18 47 53](https://github.com/user-attachments/assets/753b7644-efd0-407d-8938-a490f674676f)
+Universe 179843
+## ENG
+This version was released with a universe where in 2019 not covid19 happened but darkness happened.
+The sun became black and now it emits black light and so in this universe people walk around with a light source and in this universe the light source became a regular shadow now it is considered the sun & it erased the memory in people when they had a regular sun.
+
+And so MinecraftRussia (ShrikerChestTree) made this version that also went into this universe.
+Now hopefully they will somehow remember the past and realize that the sun was different...
+
+## RU
+Эта версия была выпущенна с вселенной, где в 2019 году произошёл не коронавирус, а тьма.
+Солнце стало чёрным и теперь она излучает чёрный свет и поэтому в этой вселенной люди ходят с источником света и в этой вселенной источником света стала обычная тень, теперь она считается солнцем и она стёрла память у людей, когда у них было солнце обычным.
+
+И поэтому MinecraftRussia (ShrikerChestTree) сделал эту версию, которая тоже попала в эту вселенную.
+Теперь надеемся, что они как-то вспомнять прошлое и поймут, что солнце было другим...
+
+## 4. Version: b1.2_01 (omg_update)
 ### ENG
 Developing...
 
