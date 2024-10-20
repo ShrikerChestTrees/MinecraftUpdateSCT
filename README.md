@@ -54,6 +54,8 @@ Developing...
 
 
 ### Discord Server (Download Version):
-1. https://discord.gg/beeshield
-2. https://discord.gg/Va56Qzwn
+
+https://discord.gg/beeshield
+https://discord.gg/Va56Qzwn
+
 ### Copyright ShrikerChestTree 2024
