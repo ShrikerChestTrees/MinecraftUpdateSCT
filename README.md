@@ -36,7 +36,7 @@ In 2029 it went into the blue book and they didn't add it in minecraft and so Sh
 I hope he doesn't start trying to get into that universe.
 
 ### RU
-Эта версия была выпущенна с вселенной, где в лесу в 2026 году появилось новое дерево - Гепан.
+Эта версия была выпущена с вселенной, где в лесу в 2026 году появилось новое дерево - Гепан.
 В 2029 году он попал в синюю книгу, а в майнкрафте его не добавили и поэтому ShrikerChestTree хотел выпустить эту версию в Дискорд и этот пост попал в другую вселенную.
 
 Надеюсь он не начнёт пытаться попасть в эту вселенную.
@@ -52,7 +52,7 @@ And so MinecraftRussia (ShrikerChestTree) made this version that also went into 
 Now hopefully they will somehow remember the past and realize that the sun was different...
 
 ## RU
-Эта версия была выпущенна с вселенной, где в 2019 году произошёл не коронавирус, а тьма.
+Эта версия была выпущена с вселенной, где в 2019 году произошёл не коронавирус, а тьма.
 Солнце стало чёрным и теперь она излучает чёрный свет и поэтому в этой вселенной люди ходят с источником света и в этой вселенной источником света стала обычная тень, теперь она считается солнцем и она стёрла память у людей, когда у них было солнце обычным.
 
 И поэтому MinecraftRussia (ShrikerChestTree) сделал эту версию, которая тоже попала в эту вселенную.
@@ -69,19 +69,32 @@ That version made it to this universe and now other people will realize that the
 Hopefully in this universe will now realize why the version resembles us...
 
 ### RU
-Эта версия была выпущенна с вселенной, где у людей с 2010 года IQ 56!
+Эта версия была выпущена с вселенной, где у людей с 2010 года IQ 56!
 Они настолько стали тупыми, что ShrikerChestTree хотел сделать обновление, но дети с 2010 года хотели разноцветное с ЛГБТ и поэтому он сделал такую версию.
 
 Эта версия попала к в эту вселенную и теперь другие люди поймут, что они примерно так же делают.
 Надеемся в этой вселенной теперь поймут почему версия напоминает нас... 
 
 ## 5. Version: b1.2_01 (rgb_update)
+Universe 67384
+### ENG
+This version was released from a universe where people have at most 70 IQ or even less because they didn't even BOTHER TO MAKE A SCREENSHOT! Ahem-ahem sorry it's just that these versions are being released at once because they were created in a retarded universe...
+
+Chest (ShrikerChestTree) made an update where everything is going stupid!
+She got into this universe and it's sad because they could have had an IQ boost and now we won't know what would have happened to them when they had an IQ boost after this version...
+
+### RU
+Эта версия была выпущена с вселенной, где у людей максимум 70 IQ или даже меньше, ведь они даже СКРИНШОТ ПОЛЕНИЛИСЬ СДЕЛАТЬ! Кхм-кхм, простите, просто эти версии выпускаю сразу, потому что они были созданы в отсталых измерениях...
+
+Chest (ShrikerChestTree) сделал обновление, где всё происходит по де#*&$*ому!
+Она попала в эту вселенную и это печально, ведь у них мог бы повыситься IQ, а теперь мы не узнаем, что случилось бы с ними, когда у них повысился IQ после этой версии...
+
+## 6. Version: b1.2_01 (bgr_update)
 ### ENG
 Developing...
 
 ### RU
 Разрабатывается...
-
 
 
 
