@@ -43,7 +43,7 @@ I hope he doesn't start trying to get into that universe.
 
 ## 3. Version: b1.2_01 (black_sun_update)
 ![2024-10-19_18 47 53](https://github.com/user-attachments/assets/753b7644-efd0-407d-8938-a490f674676f)
-Universe 179843
+Universe 8195723
 ## ENG
 This version was released with a universe where in 2019 not covid19 happened but darkness happened.
 The sun became black and now it emits black light and so in this universe people walk around with a light source and in this universe the light source became a regular shadow now it is considered the sun & it erased the memory in people when they had a regular sun.
