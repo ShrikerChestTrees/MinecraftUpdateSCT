@@ -18,12 +18,16 @@ He was releasing more or less normal versions in the beginning but then he start
 And his new version on this universe didn't come out it came out on another universe.
 So far he doesn't know as much as he did from that universe.
 
+A video was released on YouTube created by Jacks who disappeared in 2017 even though in our universe he disappeared in 2015...
+
 ### RU
 Эта версия была выпущена с вселенной, где ShrikerChestTree научился делать это ещё в 2015 году!
 Он в начале выпускал более менее нормальные версии, но потом он начал выпускать странные версии из-за Никита Берга (2016).
 
 И его новая версия на этой вселенной не вышла, а вышла на другой вселенной.
 Пока что он не знает так много, чем он с той вселенной.
+
+На ютубе вышло видео созданное Jacks, который пропал в 2017 году, хотя в нашей вселенной он пропал в 2015 году...
 
 
 ## 2. Version: b1.2_01 (no_update)
