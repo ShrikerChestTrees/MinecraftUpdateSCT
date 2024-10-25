@@ -94,6 +94,7 @@ Chest (ShrikerChestTree) сделал обновление, где всё про
 Она попала в эту вселенную и это печально, ведь у них мог бы повыситься IQ, а теперь мы не узнаем, что случилось бы с ними, когда у них повысился IQ после этой версии...
 
 ## 6. Version: b1.2_01 (bgr_update)
+![2024-10-19_18 51 42](https://github.com/user-attachments/assets/a6cfd0a2-eb47-4995-ae63-6ba11a5d9139)
 Universe 3758
 ### ENG
 This version was released with a universe where people don't know a language other than BGR & Java-like code.
