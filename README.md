@@ -94,12 +94,27 @@ Chest (ShrikerChestTree) сделал обновление, где всё про
 Она попала в эту вселенную и это печально, ведь у них мог бы повыситься IQ, а теперь мы не узнаем, что случилось бы с ними, когда у них повысился IQ после этой версии...
 
 ## 6. Version: b1.2_01 (bgr_update)
+Universe 3758
+### ENG
+This version was released with a universe where people don't know a language other than BGR & Java-like code.
+So even ShrikerChestTree didn't know how and made a version where the full BGR designation is shown.
+
+Unfortunately it got into our universe but in 7 days will release this version again since he kept a copy of it and knew about this case.
+Maybe in this universe people are smarter?
+
+### RU
+Эта версия была выпущена с вселенной, где люди не знают язык кроме BGR и кода похожего на Java.
+Поэтому даже ShrikerChestTree не умел и сделал версию, где показывается полное обозначение BGR.
+
+К сожалению она попала в нашу вселенную но через 7 дней выпустит снова эту версию, т.к. он сохранил его копию и знал об этом случае.
+Может в этой вселенной люди умнее?
+
+## 7. Version: b1.2_01 (edg_update)
 ### ENG
 Developing...
 
 ### RU
 Разрабатывается...
-
 
 
 
