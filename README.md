@@ -119,7 +119,7 @@ The cities must have gotten better there because the generation must resemble th
 And it turns out water is the only thing left but these “mountains” are cities and their scale can be huge!
 
 It shows people that they should remember the past when planet Earth had a lot of trees, animals, ores etc.
-And it got into our universe but he from this universe knows about us that we take versions and so in 2 days release a copy of the version.
+And it went into our universe but he from this universe knows about us taking versions & so 2 days later released a copy of the version.
 I wonder what will happen next...
 
 ### RU
@@ -128,7 +128,7 @@ I wonder what will happen next...
 И получается вода - единственная, что осталось, а вот эти "горы" - города и их масштаб может быть огромным!
 
 Он показывает людям, что надо вспомнить прошлое, когда на планете Земля было много деревьев, животных, руд и т.д.
-И она попала в нашу вселенную но он из этой вселенной знает о нас, что мы берём версии и поэтому через 2 дня выпустить копию версии.
+И она попала в нашу вселенную но он из этой вселенной знает о нас, что мы берём версии и поэтому через 2 дня выпустил копию версии.
 Интересно, что будет дальше...
 
 ## 8. Version: b1.2_01 (end_update)
