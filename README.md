@@ -111,6 +111,27 @@ Maybe in this universe people are smarter?
 Может в этой вселенной люди умнее?
 
 ## 7. Version: b1.2_01 (edg_update)
+![2024-10-19_18 59 15](https://github.com/user-attachments/assets/3ee2c38d-d244-4f3a-9314-00c3aa1dc5b5)
+Universe 12885738
+### ENG
+This version was released with the universe where ShrikerChestTree was born in the 64th century!
+The cities must have gotten better there because the generation must resemble the cities in that universe.
+And it turns out water is the only thing left but these “mountains” are cities and their scale can be huge!
+
+It shows people that they should remember the past when planet Earth had a lot of trees, animals, ores etc.
+And it got into our universe but he from this universe knows about us that we take versions and so in 2 days release a copy of the version.
+I wonder what will happen next...
+
+### RU
+Эта версия была выпущена с вселенной, где ShrikerChestTree родился в 64 веке!
+Там наверно города стали лучше, ведь генерация должна напоминать города в этой вселенной.
+И получается вода - единственная, что осталось, а вот эти "горы" - города и их масштаб может быть огромным!
+
+Он показывает людям, что надо вспомнить прошлое, когда на планете Земля было много деревьев, животных, руд и т.д.
+И она попала в нашу вселенную но он из этой вселенной знает о нас, что мы берём версии и поэтому через 2 дня выпустить копию версии.
+Интересно, что будет дальше...
+
+## 8. Version: b1.2_01 (end_update)
 ### ENG
 Developing...
 
