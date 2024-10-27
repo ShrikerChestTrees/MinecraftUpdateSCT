@@ -3,9 +3,13 @@
 Here we publish new updated versions from b1.2_01 to the newest!
 (As well as information about versions from other universes).
 
+I'm currently upgrading the system and so there will be no new versions released so wait for a version from another player!
+
 ### RU
 Здесь публикуются новые обновлённые версии с b1.2_01 до самых новейших!
 (А также информация о версиях появившихся с других вселенных)
+
+На данный момент я обновляю систему и поэтому не будут выходить новые версии, поэтому ждите версии от другого игрока!
 
 
 ## 1. Version: b1.2_01 (strange_update)
@@ -128,10 +132,27 @@ I wonder what will happen next...
 И получается вода - единственная, что осталось, а вот эти "горы" - города и их масштаб может быть огромным!
 
 Он показывает людям, что надо вспомнить прошлое, когда на планете Земля было много деревьев, животных, руд и т.д.
-И она попала в нашу вселенную но он из этой вселенной знает о нас, что мы берём версии и поэтому через 2 дня выпустил копию версии.
+И она попала в нашу вселенную, но он из этой вселенной знает о нас, что мы берём версии и поэтому через 2 дня выпустил копию версии.
 Интересно, что будет дальше...
 
 ## 8. Version: b1.2_01 (end_update)
+![2024-10-19_19 02 32](https://github.com/user-attachments/assets/fdca4a7a-f511-49a3-94f2-3a079500f7e6)
+Universe 456788472
+### ENG
+This version was released from a distant universe where the world is about to end!
+And so he released the latest version where one side of the block texture etc is broken.
+
+This version got to our universe but he also like the last one knows and saved it. Only he will not have time to post it because they have an Internet speed of 700 KB / s. and he assumes that will be released on January 1 when the end of the world & frankly is a shame.
+Players could play one last time in ShrikerChestTree Minecraft & we are taking it away from them! God willing they won't have the end of the world!
+
+### RU
+Эта версия была выпущена с далёкой вселенной, где скоро наступит конец света!
+И поэтому он выпустил последнюю версию, где сломана одна сторона текстуры блока и др.
+
+Эта версия попала в нашу вселенную, но он тоже как и прошлый знает и сохранил его. Только он не успеет его выложить, ведь у них интернет со скоростью 700 KB/с. и он предполагает, что выйдет 1 января, когда наступит конец света и если честно - обидно.
+Игроки могли поиграть в последний раз в майнкрафт от ShrikerChestTree, а у них забирают мы! Дай бог у них не будет конец света!
+
+## 9. Version: b1.2_03 (release_update)
 ### ENG
 Developing...
 
