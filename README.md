@@ -152,7 +152,7 @@ Players could play one last time in ShrikerChestTree Minecraft & we are taking i
 Эта версия попала в нашу вселенную, но он тоже как и прошлый знает и сохранил его. Только он не успеет его выложить, ведь у них интернет со скоростью 700 KB/с. и он предполагает, что выйдет 1 января, когда наступит конец света и если честно - обидно.
 Игроки могли поиграть в последний раз в майнкрафт от ShrikerChestTree, а у них забирают мы! Дай бог у них не будет конец света!
 
-## 9. Version: b1.2_03 (release_update)
+## 9. Version: b1.2_03 (release_update) chbdf2007
 ### ENG
 Developing...
 
@@ -163,7 +163,7 @@ Developing...
 
 ### Discord Server (Download Version):
 
-1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи)
+1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи) - версии от chbdf2007 в этом сервере не будут выходить
 2. [Нажми на меня](https://discord.com/channels/848226356923203626/882177870267559967/1297333789587935382) (Старое коммьюнити)
 
 ### [Copyright ShrikerChestTree 2024](https://youtube.com/@shrikerchesttrees2009?si=sYIhp1QxasE6wBFu)
