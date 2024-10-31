@@ -15,6 +15,7 @@ I'm currently upgrading the system and so there will be no new versions released
 ## 1. Version: b1.2_01 (strange_update)
 ![2024-10-19_18 14 23](https://github.com/user-attachments/assets/8de5751d-ab5f-439e-a523-136ebea13a0b)
 Universe 8673895
+Video https://youtu.be/Dxt-cQ3BN5Y?si=TqG1GP-tOz5QJa2A
 ### ENG
 This version was released from the universe where ShrikerChestTree learned how to do this back in 2015!
 He was releasing more or less normal versions in the beginning but then he started releasing weird versions because of Никита Берг (2016).
@@ -37,17 +38,24 @@ A video was released on YouTube created by Jacks who disappeared in 2017 even th
 ## 2. Version: b1.2_01 (no_update)
 ![2024-10-19_18 36 48](https://github.com/user-attachments/assets/af7393a4-ffbc-44a2-9a87-074b3aa359b7)
 Universe 7976863
+Video https://youtu.be/OSKx0jw8a6M?si=aEIEj8dmRCe57vpD
 ### ENG
 This version was released from a universe where a new tree Harryn appeared in the forest in 2026.
 In 2029 it went into the blue book and they didn't add it in minecraft and so ShrikerChestTree wanted to release this version in Discord and this post went into another universe.
 
 I hope he doesn't start trying to get into that universe.
 
+There is a new video on youtube where a player who is still new in our universe (2023) died.
+In the description you can see that he still died in reality and it is because of living trees that appeared later than in ours?
+
 ### RU
 Эта версия была выпущена с вселенной, где в лесу в 2026 году появилось новое дерево - Гепан.
 В 2029 году он попал в синюю книгу, а в майнкрафте его не добавили и поэтому ShrikerChestTree хотел выпустить эту версию в Дискорд и этот пост попал в другую вселенную.
 
 Надеюсь он не начнёт пытаться попасть в эту вселенную.
+
+На ютубе вышло новое видео, где умер игрок, который в нашей вселенной ещё новый (2023).
+В описании можно заметить, что он ещё в реальности умер и это из-за живых деревьев, которые появились позже, чем у нас?
 
 ## 3. Version: b1.2_01 (black_sun_update)
 ![2024-10-19_18 47 53](https://github.com/user-attachments/assets/753b7644-efd0-407d-8938-a490f674676f)
