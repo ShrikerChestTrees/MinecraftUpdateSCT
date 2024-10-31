@@ -3,13 +3,9 @@
 Here we publish new updated versions from b1.2_01 to the newest!
 (As well as information about versions from other universes).
 
-I'm currently upgrading the system and so there will be no new versions released so wait for a version from another player!
-
 ### RU
 Здесь публикуются новые обновлённые версии с b1.2_01 до самых новейших!
 (А также информация о версиях появившихся с других вселенных)
-
-На данный момент я обновляю систему и поэтому не будут выходить новые версии, поэтому ждите версии от другого игрока!
 
 
 ## 1. Version: b1.2_01 (strange_update)
@@ -161,6 +157,41 @@ Players could play one last time in ShrikerChestTree Minecraft & we are taking i
 Игроки могли поиграть в последний раз в майнкрафт от ShrikerChestTree, а у них забирают мы! Дай бог у них не будет конец света!
 
 ## 9. Version: b1.2_03 (release_update) chbdf2007
+![2024-10-27_18 43 58](https://github.com/user-attachments/assets/6aca5272-e1b3-4a63-895c-4535802ab861)
+Universe 4563981
+### ENG
+This version was released with that universe where ShowChestBow (ShrikerChestTree) is a new employee at Mojang Specifications studio!
+And so they all created this new version!
+
+This version is missing but they have this version in the archive and so they will release again in 1-3 days.
+This jar is not suitable for our launchers and so chbdf2007 fixed it.
+And do you want to be surprised? Granted fine.
+
+This version is from a different universe too & it's the one you see on the site.
+Yes yes. chbdf2007 is the only one in this universe who made a machine that takes versions from other universes!
+And yes he took our version and so we made a new version.
+
+But we took his version & he kept a copy of the version on the internet than us.
+Now we will keep versions because we are not the only ones!
+So this is the longest description you can see(for now) on this site!
+
+### RU
+Эта версия была выпущена с той вселенной, где ShowChestBow (ShrikerChestTree) является новым сотрудником в студии Mojang Specifications!
+И поэтому все они создали эту новую версию!
+
+Эта версия пропала, но у них эта версия есть в архиве и поэтому через 1-3 дня выпустят снова.
+Этот jar не подходит для наших лаунчеров и поэтому chbdf2007 исправил это.
+И хотите удивлю вас? Разрешаете, хорошо.
+
+Эта версия тоже с другой вселенной и именно с той, которую вы видите на сайте.
+Да, да. chbdf2007 единственный в этой вселенной, кто сделал машину, которая забирает версии с других вселенных!
+И да, он забрал нашу версию и поэтому мы сделали новую версию.
+
+Но мы забрали его версию, а он сохранил копию версии в интернете, чем мы.
+Теперь мы будем сохранять версии, ведь мы не единственные!
+Итак, это самое длинное описание, которое можете видеть(на данный момент) на этом сайте!
+
+## 10. Version: b1.2_01 (new_update)
 ### ENG
 Developing...
 
