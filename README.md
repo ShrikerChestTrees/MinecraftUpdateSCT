@@ -201,6 +201,27 @@ So this is the longest description you can see(for now) on this site!
 Итак, это самое длинное описание, которое можете видеть(на данный момент) на этом сайте!
 
 ## 10. Version: b1.2_01 (new_update)
+![2024-10-29_21 20 59](https://github.com/user-attachments/assets/1540268b-cf13-4ff7-889f-13f10c5cd568)
+Universe 996783
+### ENG
+This version was taken from a rather ordinary universe where ShulkerChestTree (ShrikerChestTree) has already learned how to make such versions in 2021!
+So this version came out where not only the height of the biomes became like on 1.18 but the generation itself is starting to resemble the generation from 1.18!
+This should be the most normal update that our ShrikerChestTree could release but as you can see it happened in another universe and so he didn't make such a version from our universe.
+
+That version came to us. And you're about to think that he knows about us too & so he'll make a copy of the version.
+No he didn't make a copy! He didn't know about us so he'll soon be forgotten and he'll stop making...
+Damn! We just took the version to remember him!
+
+### RU
+Эта версия была взята с довольно обычной вселенной, где ShulkerChestTree (ShrikerChestTree) уже в 2021 году научился делать такие версии!
+Поэтому вышла эта версия, где не только высота биомов стала как на 1.18, но и сама генерация начинает напоминать на генерацию из 1.18!
+Это должно быть самым нормальным обновлением, которое мог выпустить наш ShrikerChestTree, но как вы видите, это случилось в другой вселенной и поэтому он из нашей вселенной не сделал такую версию.
+
+Эта версия попала к нам. И вы сейчас подумаете, что он тоже знает о нас и поэтому сделает копию версии.
+Нет! он не сделал копию! Он не знал о нас, поэтому про него скоро забудут, да и он перестанет делать...
+Чёрт! Мы же просто взяли версию ради памяти о нём!
+
+## 11. Version: b1.2_01 (challenge_update)
 ### ENG
 Developing...
 
