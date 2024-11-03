@@ -222,6 +222,21 @@ Damn! We just took the version to remember him!
 Чёрт! Мы же просто взяли версию ради памяти о нём!
 
 ## 11. Version: b1.2_01 (challenge_update)
+![2024-10-29_21 30 06](https://github.com/user-attachments/assets/f62f2923-00a4-477c-98fa-75a3eeb28bbb)
+Universe 3495772
+### ENG
+This version was taken from the regular universe where ShrikerChestTree released a version for those who love the challenge!
+
+This version came into our universe he didn't know us but he made a copy and so he will release a new one in 2 hours.
+This is the shortest description of the version so far...
+
+### RU
+Эта версия была взята с обычной вселенной, где ShrikerChestTree выпустил версию для любителей челленджа!
+
+Эта версия попала в нашу вселенную, он не знал нас, но сделал копию и поэтому через 2 часа выпустит новую.
+Пока что это самое коротокое описание версии...
+
+## 12. Version: b1.2_01 (3d_update)
 ### ENG
 Developing...
 
