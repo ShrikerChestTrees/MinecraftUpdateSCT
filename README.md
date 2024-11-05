@@ -253,7 +253,24 @@ This version got into our universe and he didn't know & didn't have a copy but i
 Поэтому ScreenChestTree(ShrikerChestTree) сделал для одной из бета версий обновление графики!
 Эта версия попала в нашу вселенную, а он не знал и не имел копию, но оказывается, что эта версия попала на mcfurnace.com(curseforge.com) и поэтому версию уже успело скачать 6000 фанатов Minecraft Beta, а кол-во скачиваний не собирается долгое время останавливаться!
 
-## 13. Version: b1.2_01 (cpy_update)
+## 13. Version: b1.2_01 (copy_update)
+![2024-10-29_22 01 05](https://github.com/user-attachments/assets/07cc70a7-27b5-4577-9fe5-de321d525b63)
+Universe 7059375
+### ENG
+This version was taken from the universe where the Notch chunking bug appeared in this beta.
+So SorryChestTree (ShrikerChestTree) released this version where he increased the visibility of this bug!
+
+This version came to us after 4 days when this version was already published and saved without our knowledge.
+This bug was fixed in b1.3 & that's it.
+
+### RU
+Эта версия была взята с вселенной, где в этой бете появился баг с чанками от Нотча.
+Поэтому SorryChestTree (ShrikerChestTree) выпустил эту версию, где увеличил видимость этого бага!
+
+Эта версия попала к нами через 4 дня, когда эта версия была уже опубликована и сохранена, не зная о нас.
+Этот баг был исправлен в b1.3 и всё.
+
+## 14. Version: b1.2_01 (xray_update)
 ### ENG
 Developing...
 
