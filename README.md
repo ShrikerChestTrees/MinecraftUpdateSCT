@@ -237,6 +237,23 @@ This is the shortest description of the version so far...
 Пока что это самое коротокое описание версии...
 
 ## 12. Version: b1.2_01 (3d_update)
+![2024-10-29_21 59 08](https://github.com/user-attachments/assets/3ef9fe18-5696-40b2-81a5-2980629b95ec)
+Universe 7285638
+### ENG
+This version was taken from the universe where minecraft came out in 1994!
+Minecraft Classic (1994) originally had 3D but looked like 2D. Since the last version of Minecraft Indev (1994) objects & entities became 2D and in Minecraft Infdev-Beta (1995-1996) was completely 2D graphics and in Minecraft Beta 1.9.1(Release 1.0.0) (1996) returned 3D & for everyone forever.
+
+So ScreenChestTree (ShrikerChestTree) made a graphics update for one of the beta versions!
+This version got into our universe and he didn't know & didn't have a copy but it turns out that this version got on mcfurnace.com(curseforge.com) and so the version has already managed to download 6000 fans of Minecraft Beta & the number of downloads is not going to stop for a long time!
+
+### RU
+Эта версия была взята с вселенной, где майнкрафт вышел в 1994 году!
+Изначально в Minecraft Classic (1994) был 3D, но выглядил как 2D. С последней версии Minecraft Indev (1994) предметы и сущности стали 2D, а в Minecraft Infdev-Beta (1995-1996) была полностью 2D графика и в Minecraft Beta 1.9.1(Release 1.0.0) (1996) вернули 3D, и уже для всех навсегда.
+
+Поэтому ScreenChestTree(ShrikerChestTree) сделал для одной из бета версий обновление графики!
+Эта версия попала в нашу вселенную, а он не знал и не имел копию, но оказывается, что эта версия попала на mcfurnace.com(curseforge.com) и поэтому версию уже успело скачать 6000 фанатов Minecraft Beta, а кол-во скачиваний не собирается долгое время останавливаться!
+
+## 13. Version: b1.2_01 (cpy_update)
 ### ENG
 Developing...
 
