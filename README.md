@@ -61,7 +61,7 @@ Video [https://youtu.be/Y7n-zXPUHCQ?si=AsQIxFseZMeTcYIp](https://youtu.be/Y7n-zX
 This version was released with a universe where in 2019 not covid19 happened but darkness happened.
 The sun became black and now it emits black light and so in this universe people walk around with a light source and in this universe the light source became a regular shadow now it is considered the sun & it erased the memory in people when they had a regular sun.
 
-And so MinecraftRussia (ShrikerChestTree) made this version that also went into this universe.
+And so MinecraftRussia(ShrikerChestTree) made this version that also went into this universe.
 Now hopefully they will somehow remember the past and realize that the sun was different...
 
 And soon a new video is released where the same man who died got into the version from another universe but how?
@@ -72,7 +72,7 @@ And what about him now? We'll find out in the next video.
 Эта версия была выпущена с вселенной, где в 2019 году произошёл не коронавирус, а тьма.
 Солнце стало чёрным и теперь она излучает чёрный свет и поэтому в этой вселенной люди ходят с источником света и в этой вселенной источником света стала обычная тень, теперь она считается солнцем и она стёрла память у людей, когда у них было солнце обычным.
 
-И поэтому MinecraftRussia (ShrikerChestTree) сделал эту версию, которая тоже попала в эту вселенную.
+И поэтому MinecraftRussia(ShrikerChestTree) сделал эту версию, которая тоже попала в эту вселенную.
 Теперь надеемся, что они как-то вспомнять прошлое и поймут, что солнце было другим...
 
 И вскоре выходит новое видео, где тот самый человек, который умер попал в версию из другой вселенной, но как?
@@ -101,13 +101,13 @@ Universe 67384
 ### ENG
 This version was released from a universe where people have at most 70 IQ or even less because they didn't even BOTHER TO MAKE A SCREENSHOT! Ahem-ahem sorry it's just that these versions are being released at once because they were created in a retarded universe...
 
-Chest (ShrikerChestTree) made an update where everything is going stupid!
+Chest(ShrikerChestTree) made an update where everything is going stupid!
 She got into this universe and it's sad because they could have had an IQ boost and now we won't know what would have happened to them when they had an IQ boost after this version...
 
 ### RU
 Эта версия была выпущена с вселенной, где у людей максимум 70 IQ или даже меньше, ведь они даже СКРИНШОТ ПОЛЕНИЛИСЬ СДЕЛАТЬ! Кхм-кхм, простите, просто эти версии выпускаю сразу, потому что они были созданы в отсталых измерениях...
 
-Chest (ShrikerChestTree) сделал обновление, где всё происходит по де#*&$*ому!
+Chest(ShrikerChestTree) сделал обновление, где всё происходит по де#*&$*ому!
 Она попала в эту вселенную и это печально, ведь у них мог бы повыситься IQ, а теперь мы не узнаем, что случилось бы с ними, когда у них повысился IQ после этой версии...
 
 ## 6. Version: b1.2_01 (bgr_update)
@@ -169,7 +169,7 @@ Players could play one last time in ShrikerChestTree Minecraft & we are taking i
 ![2024-10-27_18 43 58](https://github.com/user-attachments/assets/6aca5272-e1b3-4a63-895c-4535802ab861)
 Universe 4563981
 ### ENG
-This version was released with that universe where ShowChestBow (ShrikerChestTree) is a new employee at Mojang Specifications studio!
+This version was released with that universe where ShowChestBow(ShrikerChestTree) is a new employee at Mojang Specifications studio!
 And so they all created this new version!
 
 This version is missing but they have this version in the archive and so they will release again in 1-3 days.
@@ -185,7 +185,7 @@ Now we will keep versions because we are not the only ones!
 So this is the longest description you can see(for now) on this site!
 
 ### RU
-Эта версия была выпущена с той вселенной, где ShowChestBow (ShrikerChestTree) является новым сотрудником в студии Mojang Specifications!
+Эта версия была выпущена с той вселенной, где ShowChestBow(ShrikerChestTree) является новым сотрудником в студии Mojang Specifications!
 И поэтому все они создали эту новую версию!
 
 Эта версия пропала, но у них эта версия есть в архиве и поэтому через 1-3 дня выпустят снова.
@@ -204,7 +204,7 @@ So this is the longest description you can see(for now) on this site!
 ![2024-10-29_21 20 59](https://github.com/user-attachments/assets/1540268b-cf13-4ff7-889f-13f10c5cd568)
 Universe 996783
 ### ENG
-This version was taken from a rather ordinary universe where ShulkerChestTree (ShrikerChestTree) has already learned how to make such versions in 2021!
+This version was taken from a rather ordinary universe where ShulkerChestTree(ShrikerChestTree) has already learned how to make such versions in 2021!
 So this version came out where not only the height of the biomes became like on 1.18 but the generation itself is starting to resemble the generation from 1.18!
 This should be the most normal update that our ShrikerChestTree could release but as you can see it happened in another universe and so he didn't make such a version from our universe.
 
@@ -213,7 +213,7 @@ No he didn't make a copy! He didn't know about us so he'll soon be forgotten and
 Damn! We just took the version to remember him!
 
 ### RU
-Эта версия была взята с довольно обычной вселенной, где ShulkerChestTree (ShrikerChestTree) уже в 2021 году научился делать такие версии!
+Эта версия была взята с довольно обычной вселенной, где ShulkerChestTree(ShrikerChestTree) уже в 2021 году научился делать такие версии!
 Поэтому вышла эта версия, где не только высота биомов стала как на 1.18, но и сама генерация начинает напоминать на генерацию из 1.18!
 Это должно быть самым нормальным обновлением, которое мог выпустить наш ShrikerChestTree, но как вы видите, это случилось в другой вселенной и поэтому он из нашей вселенной не сделал такую версию.
 
@@ -243,7 +243,7 @@ Universe 7285638
 This version was taken from the universe where minecraft came out in 1994!
 Minecraft Classic (1994) originally had 3D but looked like 2D. Since the last version of Minecraft Indev (1994) objects & entities became 2D and in Minecraft Infdev-Beta (1995-1996) was completely 2D graphics and in Minecraft Beta 1.9.1(Release 1.0.0) (1996) returned 3D & for everyone forever.
 
-So ScreenChestTree (ShrikerChestTree) made a graphics update for one of the beta versions!
+So ScreenChestTree(ShrikerChestTree) made a graphics update for one of the beta versions!
 This version got into our universe and he didn't know & didn't have a copy but it turns out that this version got on mcfurnace.com(curseforge.com) and so the version has already managed to download 6000 fans of Minecraft Beta & the number of downloads is not going to stop for a long time!
 
 ### RU
@@ -258,19 +258,34 @@ This version got into our universe and he didn't know & didn't have a copy but i
 Universe 7059375
 ### ENG
 This version was taken from the universe where the Notch chunking bug appeared in this beta.
-So SorryChestTree (ShrikerChestTree) released this version where he increased the visibility of this bug!
+So SorryChestTree(ShrikerChestTree) released this version where he increased the visibility of this bug!
 
 This version came to us after 4 days when this version was already published and saved without our knowledge.
 This bug was fixed in b1.3 & that's it.
 
 ### RU
 Эта версия была взята с вселенной, где в этой бете появился баг с чанками от Нотча.
-Поэтому SorryChestTree (ShrikerChestTree) выпустил эту версию, где увеличил видимость этого бага!
+Поэтому SorryChestTree(ShrikerChestTree) выпустил эту версию, где увеличил видимость этого бага!
 
 Эта версия попала к нами через 4 дня, когда эта версия была уже опубликована и сохранена, не зная о нас.
 Этот баг был исправлен в b1.3 и всё.
 
 ## 14. Version: b1.2_01 (xray_update)
+![2024-10-29_22 35 17](https://github.com/user-attachments/assets/7d5c104b-e2fb-428d-9b3a-a31a378b8499)
+Universe 7482757
+### ENG
+This version was released with a universe where StoneChestTree(ShrikerChestTree) was a cheater & badass player on 2B2T.
+So he decided to make b1.2_01 cheatable. Now the blocks have textures coming off and you can see a transparent hole that counts as Xray!
+
+This version got to us but the community managed to download a version in the meantime & so 20 people threw this version back into the public domain...
+
+### RU
+Эта версия была выпущена с вселенной, где StoneChestTree(ShrikerChestTree) был читером + крутым игроком на 2B2T.
+Поэтому он решил сделать b1.2_01 читерным. Теперь в блоках отходят текстуры и вы сможете увидить прозрачную щель, которая считается как Xray!
+
+Эта версия попала к нам, но коммьюнити успели за это время скачать версию и поэтому 20 человек скинули эту версию снова в общий доступ...
+
+## 15. Version: b1.2_01 (meme_update)
 ### ENG
 Developing...
 
