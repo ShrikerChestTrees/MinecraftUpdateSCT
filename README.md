@@ -289,19 +289,37 @@ This version got to us but the community managed to download a version in the me
 ![2024-10-30_00 09 35](https://github.com/user-attachments/assets/5618aaad-f850-4d3d-8d58-3a2990415621)
 Universe 525252
 ### ENG
-Developing...
+This version was released on the first of April & so it makes sense that ShockerClayTree(ShrikerChestTree) decided to play a joke on us.
+So in this version when you walk around Steve starts jer... ahem ahem i.e. doing meme animations on you.
+And that's all we could notice in the screenshot...
+
+This version got to us and now we will be able to release it on April 1 in 2025(if we remember of course) but he already saved a long time ago version as a copy & so they will see this animation too...
+Yeah this version is VERY MEMOUS!
 
 ### RU
-Разрабатывается...
+Эта версия была выпущена первого апреля и поэтому логично, что ShockerClayTree(ShrikerChestTree) решил над нами пошутить.
+Поэтому в этой версии, когда вы ходите, то Стив начинает на вас дро... кхм, кхм, т.е. делать мемную анимацию.
+И это всё, что мы смогли заметить на скриншоте...
+
+Эта версия попала к нам, и теперь мы сможем выпустить её на 1 апреля в 2025 году(если вспомним конечно), но он уже сохранил давно версию в виде копии и поэтому они тоже будут видеть эту анимацию...
+Да уж, эта версия ОЧЕНЬ МЕМНАЯ!
 
 ## 16. Version: b1.2_01 (long_update)
 ![2024-10-30_00 39 00](https://github.com/user-attachments/assets/a8fcd956-671f-44fd-a5ba-aa5a9caeadb8)
 Universe 689
 ### ENG
-Developing...
+This version was made by ShrikerChestTree from another system and where is his nickname you will tell me & I will tell you that his nickname is unknown! I honestly say that my system did not find his nickname in this universe but claims that this version was made by me from another universe!
+And that's it. Yes this is how quickly the version description ended because I don't want to write a long text here.
+
+And yes it was because of this version that my system couldn't quickly release the next version from the other universe that we took & he even knew about us and a long time ago...
+It's even scary to know what he plans to do to us...
 
 ### RU
-Разрабатывается...
+Эту версию сделал по системе ShrikerChestTree из другой системе, а где его никнейм скажете вы, а я напишу вам, что его никнейм неизвестный! Я честно говорю, что моя система не нашла его никнейм в этой вселенной, но утверждает что эту версию создал я из другой вселенной!
+И всё. Да, так быстро закончилось описание версии, потому что я не хочу писать длинный текст здесь.
+
+И да, именно из-за этой версии моя система не смогла быстро выпустить следующую версию из другой вселенной, которую мы забрали, а он даже знал о нас и очень давно...
+Даже страшно узнать, что он планирует с нами сделать...
 
 ## 17. Version: b1.2_01 (can't_update)
 ### ENG
@@ -314,7 +332,7 @@ Developing...
 
 ### Discord Server (Download Version):
 
-1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи) - версии от chbdf2007 в этом сервере не будут выходить
+1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи) - версии от chbdf2007 в этом сервере больше не будут выходить
 2. [Нажми на меня](https://discord.com/channels/848226356923203626/882177870267559967/1297333789587935382) (Старое коммьюнити)
 
 ### [Copyright ShrikerChestTree 2024](https://youtube.com/@shrikerchesttrees2009?si=sYIhp1QxasE6wBFu)
