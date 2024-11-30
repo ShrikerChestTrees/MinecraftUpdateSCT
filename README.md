@@ -286,6 +286,24 @@ This version got to us but the community managed to download a version in the me
 Эта версия попала к нам, но коммьюнити успели за это время скачать версию и поэтому 20 человек скинули эту версию снова в общий доступ...
 
 ## 15. Version: b1.2_01 (meme_update)
+![2024-10-30_00 09 35](https://github.com/user-attachments/assets/5618aaad-f850-4d3d-8d58-3a2990415621)
+Universe 525252
+### ENG
+Developing...
+
+### RU
+Разрабатывается...
+
+## 16. Version: b1.2_01 (long_update)
+![2024-10-30_00 39 00](https://github.com/user-attachments/assets/a8fcd956-671f-44fd-a5ba-aa5a9caeadb8)
+Universe 689
+### ENG
+Developing...
+
+### RU
+Разрабатывается...
+
+## 17. Version: b1.2_01 (can't_update)
 ### ENG
 Developing...
 
