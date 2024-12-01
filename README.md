@@ -322,6 +322,21 @@ It's even scary to know what he plans to do to us...
 Даже страшно узнать, что он планирует с нами сделать...
 
 ## 17. Version: b1.2_01 (can't_update)
+![2024-10-30_01 09 06](https://github.com/user-attachments/assets/171da486-b3b2-4bef-b2f4-514eaf874cb4)
+Universe 12
+### ENG
+This version comes from the universe where SpeedRunLoveDream(ShrikerChestTree) was a fan of Dream & decided to release this version.
+In this version you can just zip the game... and that's it.
+
+This is the version that made it to our universe and that on that universe SRLD(SCT) was saved & so players also played this strange version.
+
+### RU
+Эта версия пришла с вселенной, где SpeedRunLoveDream(ShrikerChestTree) был фанатом Dream и решил выпустить эту версию.
+В этой версии вы просто можете заспидранить игру... и всё.
+
+Вот такая версия попала в нашу вселенную, а что на той вселенной была сохранена SRLD(SCT), и поэтому игроки тоже поиграли в эту странную версию.
+
+## 18. Version: b1.2_01 (speedrun_update)
 ### ENG
 Developing...
 
