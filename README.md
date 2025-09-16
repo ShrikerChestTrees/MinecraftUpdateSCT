@@ -1,7 +1,7 @@
 # Minecraft Update (By SCT)
 ### ENG
 Here we publish new updated versions from b1.2_01 to the newest!
-(As well as information about versions from other universes).
+*As well as information about versions from other universes
 
 ### RU
 Здесь публикуются новые обновлённые версии с b1.2_01 до самых новейших!
@@ -315,7 +315,7 @@ And yes it was because of this version that my system couldn't quickly release t
 It's even scary to know what he plans to do to us...
 
 ### RU
-Эту версию сделал по системе ShrikerChestTree из другой системе, а где его никнейм скажете вы, а я напишу вам, что его никнейм неизвестный! Я честно говорю, что моя система не нашла его никнейм в этой вселенной, но утверждает что эту версию создал я из другой вселенной!
+Эту версию сделал по системе ShrikerChestTree из другой системы, а где его никнейм скажете вы, а я напишу вам, что его никнейм неизвестный! Я честно говорю, что моя система не нашла его никнейм в этой вселенной, но утверждает что эту версию создал я из другой вселенной!
 И всё. Да, так быстро закончилось описание версии, потому что я не хочу писать длинный текст здесь.
 
 И да, именно из-за этой версии моя система не смогла быстро выпустить следующую версию из другой вселенной, которую мы забрали, а он даже знал о нас и очень давно...
@@ -324,6 +324,22 @@ It's even scary to know what he plans to do to us...
 ## 17. Version: b1.2_01 (can't_update)
 ![2024-10-30_01 09 06](https://github.com/user-attachments/assets/171da486-b3b2-4bef-b2f4-514eaf874cb4)
 Universe 12
+### ENG
+This version came from a universe where AppleChest(ShrikerChestTree) decided to just release this version for some unknown reason.
+In this version you will see "walls"?
+
+This is the kind of unknown version that ended up in our universe and yes he didn't save it because he had good protection but he didn't know that there were people like us...
+
+### RU
+Эта версия пришла с вселенной, где AppleChest(ShrikerChestTree) решил просто выпустить эту версию с неизвестной причиной.
+В этой версии вы увидите "стены"?
+
+Вот такая непонятная версия попала в нашу вселенную и да, он не сохранил его, т.к. у него была хорошая защита, но не знал о том, что есть такие, как мы...
+
+## 18. Version: b1.2_01 (speedrun_update)
+![2024-10-30_01 12 19](https://github.com/user-attachments/assets/408ba189-184d-43cb-853d-a8325a85ce24)
+Universe 9968375
+
 ### ENG
 This version comes from the universe where SpeedRunLoveDream(ShrikerChestTree) was a fan of Dream & decided to release this version.
 In this version you can just zip the game... and that's it.
@@ -334,9 +350,9 @@ This is the version that made it to our universe and that on that universe SRLD(
 Эта версия пришла с вселенной, где SpeedRunLoveDream(ShrikerChestTree) был фанатом Dream и решил выпустить эту версию.
 В этой версии вы просто можете заспидранить игру... и всё.
 
-Вот такая версия попала в нашу вселенную, а что на той вселенной была сохранена SRLD(SCT), и поэтому игроки тоже поиграли в эту странную версию.
+Вот такая версия попала в нашу вселенную, что на той вселенной была сохранена SRLD(SCT), и поэтому игроки тоже поиграли в эту странную версию.
 
-## 18. Version: b1.2_01 (speedrun_update)
+## 19. Version: b1.2_01 (walls_update)
 ### ENG
 Developing...
 
@@ -350,4 +366,4 @@ Developing...
 1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи) - версии от chbdf2007 на этом сервере больше не будут выходить
 2. [Нажми на меня](https://discord.com/channels/848226356923203626/882177870267559967/1297333789587935382) (Старое коммьюнити)
 
-### [Copyright ShrikerChestTree 2024](https://youtube.com/@shrikerchesttrees2009?si=sYIhp1QxasE6wBFu)
+### [Copyright ShrikerChestTree 2024-2025](https://youtube.com/@shrikerchesttrees2009?si=sYIhp1QxasE6wBFu)
