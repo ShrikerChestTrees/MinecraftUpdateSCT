@@ -353,6 +353,22 @@ This is the version that made it to our universe and that on that universe SRLD(
 Вот такая версия попала в нашу вселенную, что на той вселенной была сохранена SRLD(SCT), и поэтому игроки тоже поиграли в эту странную версию.
 
 ## 19. Version: b1.2_01 (walls_update)
+![2024-10-30_01 27 33](https://github.com/user-attachments/assets/828b200d-12af-4b11-bec7-dc759bf19e3a)
+Universe 1490473
+
+### ENG
+This version is taken from a universe where ShrikerChestTree who learned how to make games made a special version that includes Notch's bug with walls from the lost version of Infdev 20100326 when he was creating a new world generation.
+We will only encounter the bug with walls.
+
+This version ended up in our universe but he didn't know so he created another version where there was a similar bug.
+
+### RU
+Данная версия взята с вселенной, где ShrikerChestTree, который научился делать игры, сделал специально версию, где есть баг Notch-а со стенами из утеряной версии Infdev 20100326, когда он делал новую генерацию мира.
+Мы будем встречать только баг со стенами.
+
+Эта версия попала в нашу вселенную, но он не знал, поэтому он создал другую версию, где был примерно такой же баг.
+
+## 20. Version: b1.2_01 (gg_update)
 ### ENG
 Developing...
 
