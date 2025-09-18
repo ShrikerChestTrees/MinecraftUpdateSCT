@@ -394,6 +394,7 @@ Developing...
 ### Discord Server (Download Version):
 
 1. [Нажми на меня](https://discord.com/channels/1213512207216934943/1221640071263031296/1297335354310918207) (СМП сервер от ИвНи) - версии от chbdf2007 на этом сервере больше не будут выходить
-2. [Нажми на меня](https://discord.com/channels/848226356923203626/882177870267559967/1297333789587935382) (Старое коммьюнити)
+2. [Нажми на меня](https://discord.com/channels/1368883146539663431/1373091053590286487) (Фанатский сезон BeeNight)
+3. [Нажми на меня](https://discord.com/channels/848226356923203626/882177870267559967/1297333789587935382) (Старое коммьюнити)
 
 ### [Copyright ShrikerChestTree 2024-2025](https://youtube.com/@shrikerchesttrees2009?si=sYIhp1QxasE6wBFu)
