@@ -369,6 +369,20 @@ This version ended up in our universe but he didn't know so he created another v
 Эта версия попала в нашу вселенную, но он не знал, поэтому он создал другую версию, где был примерно такой же баг.
 
 ## 20. Version: b1.2_01 (gg_update)
+![2024-10-30_01 43 36](https://github.com/user-attachments/assets/9d05bc81-b7ed-4437-983b-5fa575b8911a)
+Universe 798407
+
+### ENG
+The version is taken from a universe where the "gg" meme (a person whose head protrudes forward like a giraffe) was popular in 2013-2015 and GoldenOak (ShrikerChestTree) made a version where the player model is in the form of the gg meme.
+
+This version was downloaded so when we moved it to our universe one of the players sent the client to the developer so that others could download it again.
+
+### RU
+Версия взята во вселенной, где был популярен в 2013-2015 году мем "gg" (человек, у которого голова выдвигается вперёд, как у жирафа) и GoldenOak (ShrikerChestTree) сделал версию, где модель игрока в виде gg мема.
+
+Эту версию успели скачать, поэтому, когда мы забрали на нашу вселенную, то кто-то из игроков скинул клиент разработчику, чтобы другие тоже смогли скачать снова.
+
+## 21. Version: b1.2_01 (nfp_update)
 ### ENG
 Developing...
 
